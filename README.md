@@ -4,3 +4,4 @@ This is to check how readme works
 
 
 [] check box
+[x] checkbox
